@@ -1,5 +1,6 @@
 # Level 3 — Task 2: Web Developer
 
+
 This is Task 2 of Level 3 for the Cognifyz Web Development Internship.
 
 ## What I Built
